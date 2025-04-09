@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Kamalesh Kumar!
 
-<!--
-**kamalesh6196/kamalesh6196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Aspiring **Java Backend Developer** | Skilled in Java, Spring Boot, SQL, and REST APIs  
+🎓 B.E. in Mechanical Engineering | Passionate about software development  
 
-Here are some ideas to get you started:
+### 🔨 Projects
+- **Student Course Management System** – Java-based app for course enrollment & fee tracking  
+- **Student CRUD System** – Spring Boot + SQL project with full CRUD functionality  <!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Looking for:
+- A startup or mid-size company to gain real development experience  
+- Backend Developer roles with hands-on coding opportunities  
+
+📫 [Email Me](mailto:kamalesh6196@gmail.com) | [LinkedIn](https://linkedin.com/in/kamalesh6196)
